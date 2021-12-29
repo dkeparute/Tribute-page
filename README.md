@@ -8,7 +8,7 @@
  
 It is one of freeCodeCamp works to receive HTML and CSS sertificate
 
-Site published at https://dkeparute.github.io/tribute-page/
+Site published at https://dkeparute.github.io/Tribute-page/
 
 ### Objective: Build a CodePen.io app
 
