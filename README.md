@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Tribute-page "Marrie Currie"
+# Tribute-page "Marie Salomea Skłodowska Curie"
 ## About
  
 It is one of freeCodeCamp works to receive HTML and CSS sertificate
@@ -39,4 +39,4 @@ User Story #9: The img element should be centered within its parent element.
 ## Authors
 Student | Description
 ------- | -----------
-Dovile Keparute | Tribute-page "Marrie Currie"
+Dovile Keparute | Tribute-page "Marie Salomea Skłodowska Curie"
