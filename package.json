@@ -1,0 +1,19 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "This tribute page performed as the first project to receive freeCodeCamp CSS and HTML certification.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS3",
+    "HTML5"
+  ],
+  "author": "Dovile Keparute",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

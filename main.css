@@ -1,0 +1,100 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    text-align: justify;
+    color: black;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#title {
+    color: #0f485e;
+}
+
+p {
+    text-align: center;
+    transition: 0.3s;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin: 30px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #bdc3c7 0%, #2c3e50 100%);
+}
+
+#img-div {
+    background: linear-gradient(to bottom, #0f485e 0%, #606668 100%);
+    padding: 15px;
+    margin: 3px;
+}
+
+#image {
+    width: 50%;
+    height: auto;
+    margin-left: calc(25%);
+}
+
+img {
+    width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border: 10px solid white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#img-caption {
+    color: white;
+}
+
+#tribute-info{
+    color: black;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+    color: #0f485e;
+}
+
+li {
+    margin: 16px 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    color: #0f485e;
+}
+
+cite{
+    color: rgb(228, 228, 228);
+}
+
+h5{
+    text-align: center;
+}
+
+a{
+    color: rgb(228, 228, 228);
+    text-decoration: none;
+}
+
+a:hover{
+  color: antiquewhite;
+  text-decoration: none;
+}
