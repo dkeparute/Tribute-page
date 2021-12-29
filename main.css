@@ -44,22 +44,19 @@ p {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
     border: 10px solid white;
     border-radius: 1rem;
-    padding: 1rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
 }
 
 #img-caption {
     color: white;
 }
 
-#tribute-info{
+#tribute-info {
     color: black;
 }
 
@@ -81,20 +78,20 @@ blockquote {
     color: #0f485e;
 }
 
-cite{
+cite {
     color: rgb(228, 228, 228);
 }
 
-h5{
+h5 {
     text-align: center;
 }
 
-a{
+a {
     color: rgb(228, 228, 228);
     text-decoration: none;
 }
 
-a:hover{
-  color: antiquewhite;
-  text-decoration: none;
+a:hover {
+    color: antiquewhite;
+    text-decoration: none;
 }
